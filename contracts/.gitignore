@@ -7,3 +7,4 @@ deployments
 broadcast
 
 .DS_Store
+.env
