@@ -39,6 +39,11 @@ forge script script/Deploy.s.sol --rpc-url $RPC_URL --chain 8453 --broadcast
 forge script script/Mint.s.sol --rpc-url $RPC_URL --chain 8453
 ```
 
+7. Redeem USDe
+
+```bash
+forge script script/Redeem.s.sol --rpc-url $RPC_URL --chain 8453
+```
 
 ## Theory
 
